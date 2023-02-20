@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T08:38:53.127Z" agent="5.0 (X11; Ubuntu)" version="20.8.20" etag="HEa6RXFyYNr0UxfW-f-7" type="github"><diagram name="Страница 1" id="sxmZjR8IR_y0HoBEnwh8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-20T11:03:07.562Z" agent="5.0 (X11; Ubuntu)" etag="MWmaD-dkvMHlaHDbaobL" version="20.8.20" type="github">
+  <diagram name="Страница 1" id="sxmZjR8IR_y0HoBEnwh8">
+    <mxGraphModel dx="1138" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Y9s4ZiK-yGw8SolPavM1-1" target="Y9s4ZiK-yGw8SolPavM1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-1" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-2" value="Добавление информации о новой теплице в базу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-3" value="Настройка параметров микроклимата теплицы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-4" value="Просмотр статистики микроклимата по теплице" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.058;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Y9s4ZiK-yGw8SolPavM1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.046;entryY=0.223;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Y9s4ZiK-yGw8SolPavM1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="330" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-9" value="Выбрать теплицу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.044;exitY=0.265;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Y9s4ZiK-yGw8SolPavM1-9" target="Y9s4ZiK-yGw8SolPavM1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-11" value="include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y9s4ZiK-yGw8SolPavM1-12" target="Y9s4ZiK-yGw8SolPavM1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-12" value="Выбрать диапазон дат" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-14" value="include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-15" value="Выбрать теплицу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.017;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y9s4ZiK-yGw8SolPavM1-15" target="Y9s4ZiK-yGw8SolPavM1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="320" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-17" value="include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-18" value="Изменить диапазон параметра микроклимата теплицы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-19" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.983;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y9s4ZiK-yGw8SolPavM1-18" target="Y9s4ZiK-yGw8SolPavM1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="320" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9s4ZiK-yGw8SolPavM1-20" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
