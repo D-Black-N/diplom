@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T08:33:53.560Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.1.912 Yowser/2.5 Safari/537.36" etag="oXCTXobii0OevEqYzBE8" version="21.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-14T09:03:05.699Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.1.912 Yowser/2.5 Safari/537.36" etag="4_IHYWCpd4MF-5kMEBf2" version="21.1.5" type="github" pages="3">
   <diagram name="Диаграмма вариантов использования" id="sxmZjR8IR_y0HoBEnwh8">
     <mxGraphModel dx="1318" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -811,7 +811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cEwPoVK7xpBNSW6t_taJ" name="Схема структурная">
-    <mxGraphModel dx="2929" dy="2902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -929,7 +929,7 @@
         <mxCell id="B30r8WW8NK6tj0aYM9ud-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B30r8WW8NK6tj0aYM9ud-38" target="B30r8WW8NK6tj0aYM9ud-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B30r8WW8NK6tj0aYM9ud-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B30r8WW8NK6tj0aYM9ud-38" target="B30r8WW8NK6tj0aYM9ud-46" edge="1">
+        <mxCell id="B30r8WW8NK6tj0aYM9ud-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="B30r8WW8NK6tj0aYM9ud-38" target="B30r8WW8NK6tj0aYM9ud-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B30r8WW8NK6tj0aYM9ud-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;API&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -956,7 +956,7 @@
         <mxCell id="B30r8WW8NK6tj0aYM9ud-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="B30r8WW8NK6tj0aYM9ud-46" target="B30r8WW8NK6tj0aYM9ud-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B30r8WW8NK6tj0aYM9ud-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B30r8WW8NK6tj0aYM9ud-46" target="B30r8WW8NK6tj0aYM9ud-53" edge="1">
+        <mxCell id="B30r8WW8NK6tj0aYM9ud-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="B30r8WW8NK6tj0aYM9ud-46" target="B30r8WW8NK6tj0aYM9ud-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B30r8WW8NK6tj0aYM9ud-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Модуль обработки запросов пользователя&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
