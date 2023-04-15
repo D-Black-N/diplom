@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T07:41:18.216Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.1.912 Yowser/2.5 Safari/537.36" etag="CwkxuIrs5J_W9t-U_rd9" version="21.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-15T07:46:25.870Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.1.912 Yowser/2.5 Safari/537.36" etag="wu8AoxtVr7h_SkYdtIqL" version="21.1.8" type="github" pages="4">
   <diagram name="Диаграмма вариантов использования" id="sxmZjR8IR_y0HoBEnwh8">
     <mxGraphModel dx="1318" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1194,20 +1194,20 @@
         <mxCell id="LYu9hEgWZFVwx1p6DYvy-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C12&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="480" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LYu9hEgWZFVwx1p6DYvy-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C13&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="280" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LYu9hEgWZFVwx1p6DYvy-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C14&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="360" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LYu9hEgWZFVwx1p6DYvy-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C15&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="410" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LYu9hEgWZFVwx1p6DYvy-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C16&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="280" width="50" height="30" as="geometry" />
+        <mxCell id="LYu9hEgWZFVwx1p6DYvy-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LYu9hEgWZFVwx1p6DYvy-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C17&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="490" width="50" height="30" as="geometry" />
+        <mxCell id="LYu9hEgWZFVwx1p6DYvy-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYu9hEgWZFVwx1p6DYvy-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
